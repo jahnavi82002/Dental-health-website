@@ -6,7 +6,7 @@ This is a web based application developed for accomplishment of Future Ready Tal
 
 ** Project Demo video link ** - https://youtu.be/iOo4w4e5u7E
 
-## Azure Technologies used-
+## Azure Technologies used
 
 -Static Web-App
 
@@ -48,13 +48,15 @@ This is a web based application developed for accomplishment of Future Ready Tal
 
 ![Screenshot (32)](https://github.com/jahnavi82002/Dental-health-website/assets/137976606/65d6d183-2b64-4bee-902a-d23dcf545e6e)
 
-## Tech Stack used-
+## Tech Stack used
 
 -Azure(Hosting)
 
 -HTML
 
 -CSS
+
+-Bootstrap
 
 
 
