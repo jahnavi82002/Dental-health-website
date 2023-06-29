@@ -6,6 +6,12 @@ This is a web based application developed for accomplishment of Future Ready Tal
 
 ** Project Demo video link ** - https://youtu.be/iOo4w4e5u7E
 
+## Azure Technologies used-
+
+-Static Web-App
+
+-Health Bot
+
 ## Featured and Functionalities
 -Interactive and responsive UI.
 
@@ -37,8 +43,18 @@ This is a web based application developed for accomplishment of Future Ready Tal
 
 ![Screenshot (31)](https://github.com/jahnavi82002/Dental-health-website/assets/137976606/0937d1c4-8b27-4196-995d-884f792827d5)
 
+
 ### Dentalhealthbot-
 
 ![Screenshot (32)](https://github.com/jahnavi82002/Dental-health-website/assets/137976606/65d6d183-2b64-4bee-902a-d23dcf545e6e)
+
+## Tech Stack used-
+
+-Azure(Hosting)
+
+-HTML
+
+-CSS
+
 
 
