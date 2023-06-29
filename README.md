@@ -3,12 +3,16 @@ This is a web app developed for a dental health clinic.
 This is a web based application developed for accomplishment of Future Ready Talent Internship launched ny Microsoft, Future Skills Prime, Quess, GitHub and EY.
 
 ** Project Link ** - https://happy-flower-05bf4d500.3.azurestaticapps.net/
+
 ** Project Demo video link ** - https://youtu.be/iOo4w4e5u7E
 
 ## Featured and Functionalities
 -Interactive and responsive UI.
+
 -Has collection of webpages including Home, About us, Services, Gallery, Blog, Contact us, Dentalhealthbot, Book Now.
+
 -Have an aesthetically pleasing design and outlook.
+
 -User can book an appointment for various dental services. 
 
 ## Screenshots
